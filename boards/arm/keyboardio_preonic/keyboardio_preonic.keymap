@@ -16,6 +16,8 @@
 // Using layer taps on thumbs, having quick tap as well helps w/ repeating space/backspace
 &lt { quick_tap_ms = <200>; };
 
+&mt { tapping-term-ms = <800>; };
+
 // Convenience macro to make the Bluetooth commands shorter
 #define BT(n) BT_SEL n
 
